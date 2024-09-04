@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Challenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{307385A0-43C2-43F7-A4CF-028780C5AD53}|Challenge1\\Challenge1.vcxproj|C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Challenge1\\Challenge1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{307385A0-43C2-43F7-A4CF-028780C5AD53}|Challenge1\\Challenge1.vcxproj|solutionrelative:Challenge1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768995-E728-424A-A5BC-B331D0C80292}|..\\FirstProgram\\FirstProgram\\FirstProgram.vcxproj|C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\FirstProgram\\FirstProgram\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\FirstProgram\\FirstProgram\\main.cpp",
+              "RelativeDocumentMoniker": "..\\FirstProgram\\FirstProgram\\main.cpp",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\FirstProgram\\FirstProgram\\main.cpp",
+              "RelativeToolTip": "..\\FirstProgram\\FirstProgram\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T09:52:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Challenge1\\Challenge1\\main.cpp",
+              "RelativeDocumentMoniker": "Challenge1\\main.cpp",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Challenge1\\Challenge1\\main.cpp",
+              "RelativeToolTip": "Challenge1\\main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T09:47:31.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
