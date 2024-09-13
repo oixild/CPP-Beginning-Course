@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\David\\Documents\\dsr\\CPP-Beginning-Course\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{895D6E0B-A0AB-4094-841D-3DEE01D1C8F5}|Project1\\Project1.vcxproj|C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{895D6E0B-A0AB-4094-841D-3DEE01D1C8F5}|Project1\\Project1.vcxproj|C:\\Users\\David\\Documents\\dsr\\CPP-Beginning-Course\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{895D6E0B-A0AB-4094-841D-3DEE01D1C8F5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Project1\\Project1\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\dsr\\CPP-Beginning-Course\\Project1\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "Project1\\main.cpp",
-              "ToolTip": "C:\\Users\\David\\OneDrive\\Documentos\\dsr\\cpp curso\\CPP-Beginning-Course\\Project1\\Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\David\\Documents\\dsr\\CPP-Beginning-Course\\Project1\\Project1\\main.cpp",
               "RelativeToolTip": "Project1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-26T11:50:00.462Z",
               "EditorCaption": ""

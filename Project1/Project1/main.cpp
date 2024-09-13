@@ -1,8 +1,7 @@
 #include <iostream>
 
-using namespace std;
 
 int main() {
-	cout << "Default Template" << endl;
+	std::cout << "Default Template" << std::endl;
 	return 0;
 }
